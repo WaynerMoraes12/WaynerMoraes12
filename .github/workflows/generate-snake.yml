@@ -3,21 +3,21 @@ name: Generate Snake
 
 # Define quando a ação vai rodar
 on:
-  # Roda a cada 6 horas automaticamente
   schedule:
     - cron: "0 */6 * * *"
-  # Permite que você rode a ação manualmente pela aba "Actions"
   workflow_dispatch:
+
+# ADICIONAMOS ESTA SEÇÃO DE PERMISSÕES
+permissions:
+  contents: write
 
 # Define o trabalho que será feito
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Pega uma cópia do seu repositório para a ação poder trabalhar
       - uses: actions/checkout@v3
 
-      # Gera a animação da cobrinha
       - name: Generate snake animation
         uses: Platane/snk@v3
         id: snake-gif
@@ -28,7 +28,6 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.svg?palette=ocean
 
-      # Empurra a imagem gerada para uma branch chamada 'output'
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
