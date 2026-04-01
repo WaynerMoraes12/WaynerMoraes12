@@ -2,7 +2,7 @@
 
 - 📚 I am currently studying Computer Engineering  
 - 🔭 I’m currently working on a project as a freelance programming professional.  
-- 🌱 I am currently learning Python, C and C++
+- 🌱 I am currently learning Python and C++
 
 <div>
   <a href="https://github.com/WaynerMoraes12">
