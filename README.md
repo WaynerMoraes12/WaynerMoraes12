@@ -1,14 +1,11 @@
 ## Hello there, I am Wayner Moraes 🚀
-
 - 📚 I am currently studying Computer Engineering  
-- 🔭 I’m currently working on a project as a freelance programming professional.  
+- 🔭 I'm currently working on a project as a freelance programming professional.  
 - 🌱 I am currently learning Python and C++
 
 <div>
-  <a href="https://github.com/WaynerMoraes12">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WaynerMoraes12&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaynerMoraes12&layout=compact&langs_count=16&theme=dark&cache_seconds=86400"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WaynerMoraes12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaynerMoraes12&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ![github snake animation](https://raw.githubusercontent.com/WaynerMoraes12/WaynerMoraes12/output/github-snake.svg)
