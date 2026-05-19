@@ -20,8 +20,8 @@ I build high-performance, memory-safe systems. Currently leveraging my backgroun
 
 ### 📊 GitHub Analytics
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WaynerMoraes12&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaynerMoraes12&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
+  <![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WaynerMoraes12&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)>
+  <![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaynerMoraes12&layout=compact&langs_count=6&theme=radical&hide_border=true)>
 </p>
 
 ### 📬 Comms
