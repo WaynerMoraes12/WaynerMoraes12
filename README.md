@@ -1,6 +1,6 @@
 <div align="center">
   
-# Wayner Moraes (Black12) ⚡
+# Wayner Moraes⚡
 **Software Engineer | C++ & Audio DSP | System Architecture**
 
 <br>
