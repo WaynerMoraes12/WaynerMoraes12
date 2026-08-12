@@ -1,7 +1,7 @@
 <div align="center">
   
 # Wayner Moraes⚡
-**Software Engineer | C++ & Audio DSP | System Architecture**
+**Dev JR | C++ & Python | System Architecture**
 
 <br>
 
