@@ -1,7 +1,7 @@
 <div align="center">
   
 # Wayner Moraes⚡
-**Dev JR | C++ & Python | System Architecture**
+**Software Engineer | C++ & Python | System Architecture**
 
 <br>
 
@@ -24,8 +24,8 @@
 class WaynerMoraes {
 public:
     std::string role = "Software Engineer";
-    std::string currentFocus = "C++17, Audio DSP, JUCE 8 Framework";
-    std::string activeProject = "MAW Professional AI (Lock-free DAW)";
+    std::string currentFocus = "C++, Python, Audio DSP";
+    std::string activeProject = "MAW Professional DAW with AI (Lock-free DAW), & Website SpiinTT";
 
     void executeMission() {
         buildHighPerformanceSystems();
